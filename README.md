@@ -1,5 +1,5 @@
-# learning-terraform-linting
-Learning Terraform Linting
+learning-terraform-linting
+# Learning Terraform Linting
 
 ```
 terraform fmt
